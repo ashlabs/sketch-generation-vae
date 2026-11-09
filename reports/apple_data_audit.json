@@ -1,0 +1,14 @@
+{
+  "source_file_sha256": "a70df0030c146cfe4aa9a17aa2a320d5f64ac166fdc3d2cfb439b8322fd8bb0d",
+  "source_images": 144722,
+  "blank_images_excluded": 0,
+  "duplicate_images_excluded": 1,
+  "unique_nonblank_images": 144721,
+  "selected_images": 30000,
+  "seed": 42,
+  "split_counts": {
+    "train": 24000,
+    "validation": 3000,
+    "test": 3000
+  }
+}
