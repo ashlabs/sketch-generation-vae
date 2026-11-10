@@ -1,0 +1,13 @@
+{
+  "model": "single_category_convolutional_vae",
+  "category": "apple",
+  "latent_dim": 16,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "epochs": 20,
+  "seed": 42,
+  "validation_noise_seed": 12345,
+  "source_sha256": "a70df0030c146cfe4aa9a17aa2a320d5f64ac166fdc3d2cfb439b8322fd8bb0d",
+  "continued_from_run": "apple_vae_pilot_20261110T173728_106976Z",
+  "continued_from_epoch": 5
+}

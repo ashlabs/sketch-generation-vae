@@ -1,0 +1,10 @@
+{
+  "generation_run": "conditional_vae_20261110T173806_903113Z",
+  "generation_checkpoint_epoch": 18,
+  "classifier_run": "category_evaluator_20261110T174338_742179Z",
+  "classifier_checkpoint_epoch": 5,
+  "seed": 2718,
+  "samples_per_category": 1000,
+  "sample_filtering": false,
+  "output_representation": "Sigmoid grayscale intensities"
+}

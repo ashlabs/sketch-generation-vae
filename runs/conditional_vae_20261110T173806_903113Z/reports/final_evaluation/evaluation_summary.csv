@@ -1,0 +1,6 @@
+measure,value,unit
+Selected VAE test total,162.31135755750867,loss/image
+Selected VAE test reconstruction,140.0546143391927,loss/image
+Selected VAE test KL,22.256741166856553,loss/image
+Classifier real-test accuracy,0.9654444444444444,fraction
+Generated requested-category agreement,0.9036666666666666,fraction

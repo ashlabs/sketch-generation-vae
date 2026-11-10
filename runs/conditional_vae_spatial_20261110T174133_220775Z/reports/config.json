@@ -1,0 +1,27 @@
+{
+  "model": "spatial_conditional_convolutional_vae",
+  "categories": [
+    "apple",
+    "mushroom",
+    "umbrella"
+  ],
+  "category_mapping": {
+    "apple": 0,
+    "mushroom": 1,
+    "umbrella": 2
+  },
+  "latent_dim": 16,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "epochs": 20,
+  "kl_weight": 1.0,
+  "seed": 42,
+  "validation_noise_seed": 12345,
+  "source_sha256": {
+    "apple": "a70df0030c146cfe4aa9a17aa2a320d5f64ac166fdc3d2cfb439b8322fd8bb0d",
+    "mushroom": "65cd98daed360d8e6de477eb033b8b043484f701fd30683ceef4310c1562616f",
+    "umbrella": "5bf7d6d392246eba64c6b8e2baccf09c34b673d302cb3248636dcbef5a823015"
+  },
+  "comparison_run": "conditional_vae_20261110T173806_903113Z",
+  "experiment": "Category maps before every decoder convolution"
+}
