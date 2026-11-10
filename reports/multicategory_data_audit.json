@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "category_mapping": {
+    "apple": 0,
+    "mushroom": 1,
+    "umbrella": 2
+  },
+  "apple_split_preserved": true,
+  "duplicate_policy": "First occurrence retained in category order: apple, mushroom, umbrella. All eligible source hashes are reserved before sampling the next category.",
+  "categories": [
+    {
+      "category": "apple",
+      "source_images": 144722,
+      "blank_images_excluded": 0,
+      "exact_duplicates_excluded": 1,
+      "eligible_unique_images": 144721,
+      "selected_images": 30000
+    },
+    {
+      "category": "mushroom",
+      "source_images": 142167,
+      "blank_images_excluded": 0,
+      "exact_duplicates_excluded": 3,
+      "eligible_unique_images": 142164,
+      "selected_images": 30000
+    },
+    {
+      "category": "umbrella",
+      "source_images": 124084,
+      "blank_images_excluded": 0,
+      "exact_duplicates_excluded": 3,
+      "eligible_unique_images": 124081,
+      "selected_images": 30000
+    }
+  ]
+}

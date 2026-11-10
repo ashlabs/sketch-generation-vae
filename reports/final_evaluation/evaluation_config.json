@@ -1,0 +1,12 @@
+{
+  "vae_run": "conditional_vae_20261109T200212_282317Z",
+  "vae_checkpoint": "best.pt",
+  "vae_checkpoint_epoch": 18,
+  "classifier_run": "category_evaluator_20261110T165912_770006Z",
+  "classifier_checkpoint_epoch": 5,
+  "test_images": 9000,
+  "vae_evaluation_noise_seed": 12345,
+  "classifier_test_loss": 0.09276582637429237,
+  "classifier_test_accuracy": 0.9654444444444444,
+  "model_selection_completed_before_test": true
+}

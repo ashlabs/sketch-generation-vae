@@ -1,0 +1,9 @@
+{
+  "checkpoint": "best.pt",
+  "checkpoint_epoch": 18,
+  "latent_dim": 16,
+  "seed": 2026,
+  "samples_per_category": 32,
+  "shared_latent_across_categories": true,
+  "sample_selection": "All generated samples displayed without filtering"
+}

@@ -1,0 +1,2 @@
+split,count,checkpoint_epoch,total,reconstruction,kl
+test,9000,18,162.31135755750867,140.0546143391927,22.256741166856553
